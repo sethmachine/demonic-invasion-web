@@ -1,8 +1,9 @@
-[align=center][size=24][color=#CC0000]D[/color][color=#FF6600]AE[/color][color=#FFFFFF]MO[/color][color=#CC0000]N[/color][color=#FFFFFF]IA [/color][color=#CC0000]E[/color][color=#FF6600]PI[/color][color=#CC0000]C[/color][/size][/align]
+[align=center][color=#FF0000][u][size=18][b]Daemonia Epic[/b][/size][/u][/color]
+A unique competitive cooperative experience
+by sethmachine[/align]
 
-[align=center][i]A cooperative-competitive experience by sethmachine[/i][/align]
-
-[align=center][IMG]image_url_here[/IMG][/align]
+[align=center]The world of Daemonia Epic.
+[IMG]https://raw.githubusercontent.com/sethmachine/demonic-invasion-web/main/assets/demonic-invasion-image-web.jpg[/IMG][/align]
 
 [quote]
 [size=18][color=#E8A000]W[/color][/size][size=13][color=#E8A000]hat is Daemonia Epic?[/color][/size]
