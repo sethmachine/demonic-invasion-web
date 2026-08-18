@@ -1,16 +1,52 @@
-[align=center][color=#FF0000][u][size=18][b]Daemonia Epic[/b][/size][/u][/color]
-A unique competitive cooperative experience
-by sethmachine[/align]
+[align=center][font=Geneva][size=22][color=#880000]D[/color][color=#AA1100]A[/color][color=#CC3300]E[/color][color=#DD5500]M[/color][color=#EE7700]O[/color][color=#FF9900]N[/color][color=#EE7700]I[/color][color=#DD5500]A[/color] [color=#CC3300]E[/color][color=#AA1100]P[/color][color=#880000]I[/color][color=#660000]C[/color][/size][/font][/align]
+[align=center][font=Geneva][size=13][color=#f2f0cb]A unique competitive cooperative experience
+by sethmachine[/color][/size][/font][/align]
 
-[align=center]The world of Daemonia Epic.
+[align=center][font=Geneva][size=13][color=#f2f0cb]The world of Daemonia Epic.[/color][/size][/font]
 [IMG]https://raw.githubusercontent.com/sethmachine/demonic-invasion-web/main/assets/demonic-invasion-image-web.jpg[/IMG][/align]
 
-[quote]
-[size=18][color=#E8A000]W[/color][/size][size=13][color=#E8A000]hat is Daemonia Epic?[/color][/size]
+[font=Geneva][color=#DA9A47][size=22]W[/size][size=17]hat is Daemonia Epic?[/size][/color][/font]
 
-Daemonia Epic is a cooperative-competitive experience set in the age of fantasy, magic, swords, and demons. Players control a Magister — a powerful wizard-lord — as part of a greater Empire, each representing one of 5 rival kingdoms. Players must work together to complete quests, build up their kingdom, foster diplomacy, and explore Hell to power up their hero, all while combating the ever-growing demonic invasion. This game combines elements of RTS, RPG, and Diplomacy all in one. As players succeed or fail Quests, the demons grow stronger, pressuring everyone to cooperate before it is too late.
+[font=Geneva][size=17][color=#f2f0cb]Daemonia Epic is a cooperative-competitive experience set in the age of fantasy, magic, swords, and demons. Players control a Magister, a powerful wizard-lord, as part of a greater Empire, each representing one of 5 rival kingdoms. Players must work together to complete quests, build up their kingdom, foster diplomacy, and explore Hell to power up their hero, all while combating the ever-growing demonic invasion. This game combines elements of RTS, RPG, and Diplomacy all in one. As players succeed or fail Quests, the demons grow stronger, pressuring everyone to cooperate before it is too late.
 
-[color=#CC0000][b]Tileset[/b][/color]: Jungle
-[color=#CC0000][b]Players[/b][/color]: 2–5
-[color=#CC0000][b]Genre[/b][/color]: Cooperative-Competitive RPG / RTS / Diplomacy
-[/quote]
+Daemonia Epic is the spiritual successor to the original [url=https://staredit.net/topic/16412/]Demonic Invasion[/url], which itself inspired at least one remake, [url=https://staredit.net/topic/18537/]Demonic Invasion II[/url] by Excalibur, built using EUD extensions. Daemonia Epic goes far beyond its predecessors, however: mechanically it is a wholly different beast, boasting over 17,000 triggers and entirely new systems, including a full Quests campaign and a Perk upgrade system, not even imagined in the original.
+
+Why did I make this map? My goal is to craft an experience that can tell an epic story, one that can be different each time. William Faulkner believed that the only thing worth writing about is "the human heart in conflict with itself." That idea is the soul of Daemonia Epic. Every game tells its own story, shaped entirely by the decisions players make under pressure. Do you abandon the Quests to further your own kingdom, leaving your allies to struggle alone? Do you exploit the chaos of the demonic invasion to seize territory from a neighbor? Do you descend into Hell to hunt bosses and grow powerful, knowing the demons grow stronger while you're gone? Or perhaps you answer every call for help, not out of loyalty, but because Quest MVP rewards are too good to pass up. The map is built around conflict: cooperation versus self-interest, ambition versus survival, trust versus betrayal. My goal is to let players decide how each game should unfold.[/color][/size][/font]
+
+[font=Geneva][color=#DA9A47][size=22]W[/size][size=17]hat makes Daemonia Epic stand out?[/size][/color][/font]
+
+[font=Geneva][color=#DA9A47][size=22]Q[/size][/color][color=#EAD767][size=17]uests System[/size][/color][/font]
+[font=Geneva][size=17][color=#f2f0cb]The game features a set of 12 linear quests culminating in a final battle for the fate of the world. All quests are timed, displayed on the Countdown timer, and players must complete each one before time runs out or face automatic failure. Success rewards all players with Perk Points, and the MVP, the player who contributed most to the quest, earns a bonus on top. But failure has real consequences: the Demons become permanently stronger. At least 2 more quests are planned to complete the plot line. Players win the game by completing the final quest successfully.[/color][/size][/font]
+
+[font=Geneva][color=#DA9A47][size=22]P[/size][/color][color=#EAD767][size=17]erk System[/size][/color][/font]
+[font=Geneva][size=17][color=#f2f0cb]By completing quests or obtaining the rare Flag item, players earn Perk Points which can be spent on permanent, stackable upgrades to their army and economy. There are 8 perks to choose from, each with 10 to 25 levels: increase max army size, increase garrison strength, increase farming income, increase melee unit health, increase ranged unit health, increase vehicle unit health, increase max air units, and increase air unit health. The two air perks are locked until players unlock air units through a late game quest.[/color][/size][/font]
+
+[font=Geneva][color=#DA9A47][size=22]P[/size][/color][color=#EAD767][size=17]ortal System[/size][/color][/font]
+[font=Geneva][size=17][color=#f2f0cb]The world is divided into two dimensions: the familiar lands of Earth and the infernal plains of Hell. Players can travel between them using the Portal spell, which summons an Observer at the Magister's location. By moving the Observer onto buildable ground, a one-way Warp Gate is created. Any unit that steps through is transported to a random location in the opposite dimension: a portal opened on Earth leads to Hell, and one opened in Hell returns to Earth. Players must journey to Hell to complete certain Quests, defeat Bosses, and ultimately confront the source of the invasion.[/color][/size][/font]
+
+[font=Geneva][color=#DA9A47][size=22]I[/size][/color][color=#EAD767][size=17]tem System[/size][/color][/font]
+[font=Geneva][size=17][color=#f2f0cb]Each player commands a Magister (Tassadar Templar unit). Initially quite weak, the Magister can be greatly strengthened by acquiring items dropped by bosses in Hell. There are five items in total, each permanently improving one stat:
+
+Daemon Heart [Young Chrysalis]: increases max health. Can be acquired up to 18 times.
+Sage Stone [Khaydarin Crystal]: increases max mana by 100 per pickup. Can be acquired up to 9 times.
+Tear of Gardos [Khalis Crystal]: increases mana regeneration. Can be acquired up to 10 times.
+Shard of Aegis [Uraj Crystal]: increases shield regeneration. Can be acquired up to 19 times.
+Lost Aquila [Flag]: grants +1 Perk Point. Can be acquired virtually unlimited times.
+
+Items are randomly dropped by bosses and are hotly contested. A stronger Magister is a powerful asset late in the game, so hunting bosses in Hell is always a worthwhile gamble.[/color][/size][/font]
+
+[font=Geneva][color=#DA9A47][size=22]A[/size][/color][color=#EAD767][size=17]rmy System[/size][/color][/font]
+[font=Geneva][size=17][color=#f2f0cb]Most Terran and Protoss buildings automatically produce units for the player over time, each with a small upkeep cost per cycle. Players never train units manually -- army building is handled entirely by the spawn system. This keeps the macro element simple while still giving players meaningful choices about their composition over time. Units spawn in at 50% health initially, but with enough Perk upgrades they can reach full strength at spawn.[/color][/size][/font]
+
+[font=Geneva][color=#DA9A47][size=22]I[/size][/color][color=#EAD767][size=17]ncome System[/size][/color][/font]
+[font=Geneva][size=17][color=#f2f0cb]Players earn income automatically by controlling Towns (Supply Depot), Castles (Power Generator), and Capitals (Nexus), each paying out periodically to keep macro simple. In addition, players can station up to 3 Farmers (Terran Civilians) at each Town to boost its income, adding an optional economic layer for those who want it. There is also a Perk dedicated to increasing farming income, giving players a path to wealth that doesn't require fighting neighbors.[/color][/size][/font]
+
+[font=Geneva][color=#DA9A47][size=22]B[/size][/color][color=#EAD767][size=17]oss System[/size][/color][/font]
+[font=Geneva][size=17][color=#f2f0cb]Powerful bosses roam the plains of Hell and can be optionally hunted for random item drops. Item drops use a grid system to guarantee spawning reliably -- a problem that plagued the original map. Bosses are not passive: they can cast spells and summon powerful elite demons to defend themselves. There are currently 3 bosses implemented, with at least 6 more planned.[/color][/size][/font]
+
+[font=Geneva][color=#DA9A47][size=22]D[/size][/color][color=#EAD767][size=17]emonic Invasion[/size][/color][/font]
+[font=Geneva][size=17][color=#f2f0cb]Demon Lords plot to take over the world and slowly build up their forces on Earth. At first the invasion is weak and easy to ignore, but as the game progresses the Demons grow stronger, fielding more powerful units at higher health. Failing quests accelerates this process. When the demonic forces reach a critical mass, they organize and begin targeting each player's capital one by one, before finally marching on the Imperial City itself. If all capitals fall to the Demons, the game ends in defeat.[/color][/size][/font]
+
+[font=Geneva][color=#CC0000][b]Tileset[/b][/color][color=#f2f0cb][size=17]: Jungle[/size][/color]
+[color=#CC0000][b]Players[/b][/color][color=#f2f0cb][size=17]: 2–5[/size][/color]
+[color=#CC0000][b]Genre[/b][/color][color=#f2f0cb][size=17]: Cooperative-Competitive RPG / RTS / Diplomacy[/size][/color][/font]
