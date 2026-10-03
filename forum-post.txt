@@ -8,7 +8,11 @@ by sethmachine[/color][/size][/font][/align]
 
 [font=Geneva][color=#DA9A47][size=22]W[/size][size=17]hat is Daemonia Epic?[/size][/color][/font]
 
-[font=Geneva][size=17][color=#f2f0cb]Daemonia Epic is a cooperative-competitive experience set in the age of fantasy, magic, swords, and demons. Players control a Magister, a powerful wizard-lord, as part of a greater Empire, each representing one of 5 rival kingdoms. Players must work together to complete quests, build up their kingdom, foster diplomacy, and explore Hell to power up their hero, all while combating the ever-growing demonic invasion. This game combines elements of RTS, RPG, and Diplomacy all in one. As players succeed or fail Quests, the demons grow stronger, pressuring everyone to cooperate before it is too late. [b]The map is fully playable, though development is ongoing and I intend to finish the remaining Quests to complete the story.[/b]
+[font=Geneva][size=17][color=#f2f0cb]Daemonia Epic is a cooperative-competitive experience set in the age of fantasy, magic, swords, and demons. Players control a Magister, a powerful wizard-lord, as part of a greater Empire, each representing one of 5 rival kingdoms. Your goal is to prove yourself worthy as the next Emperor by claiming the most Mandate and defeating the forces of Hell.
+
+The winner of the game is determined at the end by which player has the most Mandate (Terran Beacon).  Mandate is given as rewards for completing quests, controlling capitals (Protoss Nexus), and controlling castles (Power Generator).  The player with the most mandate when the final plot quest is completed is crowned the new Emperor.  Other players may optionally challenge them in a final confrontation, or simply accept them as their new overlord.  The game cannot be won until Hell is defeated--you cannot win by being king of the ashes.  
+
+Players must work together to complete quests, build up their kingdom, foster diplomacy, and explore Hell to power up their hero, all while combating the ever-growing demonic invasion. This game combines elements of RTS, RPG, and Diplomacy all in one. As players succeed or fail Quests, the demons grow stronger, pressuring everyone to cooperate before it is too late. [b]The map is fully playable, though development is ongoing and I intend to finish the remaining Quests to complete the story.[/b]
 
 Daemonia Epic is the spiritual successor to the original [url=https://staredit.net/topic/16412/]Demonic Invasion[/url], which itself inspired at least one remake, [url=https://staredit.net/topic/18537/]Demonic Invasion II[/url] by Excalibur, built using EUD extensions. Daemonia Epic goes far beyond its predecessors, however: mechanically it is a wholly different beast, boasting over 17,000 triggers and entirely new systems, including a full Quests campaign and a Perk upgrade system, not even imagined in the original.
 
@@ -21,6 +25,16 @@ Why did I make this map? My goal is to craft an experience that can tell an epic
 [color=#CC0000][b]Genre[/b][/color][color=#f2f0cb][size=17]: Cooperative-Competitive RPG / RTS / Diplomacy[/size][/color]
 [color=#CC0000][b]EUD[/b][/color][color=#f2f0cb][size=17]: No[/size][/color]
 [color=#CC0000][b]Hypertriggers[/b][/color][color=#f2f0cb][size=17]: Yes[/size][/color][/font]
+
+[font=Geneva][color=#DA9A47][size=22]H[/size][size=17]ow to win[/size][/color][/font]
+
+[font=Geneva][size=17][color=#f2f0cb]To win the game and become the next Emperor, you must earn the most Mandate by the end of the game. Mandate represents your worthiness to inherit the throne and ensure the survival of humanity.  The player with the most Mandate after the final quest will be crowned Emperor and handed control of the Imperial Capital. However, other players may challenge the new Emperor in a final timed contest. No matter how much Mandate you have, you cannot become Emperor until the threat of Hell is defeated.
+
+To earn Mandate:
+[LIST]
+[*]Complete the MVP goal of a quest: most Quests offer bonus Mandate rewards to the player who contributed most.
+[*]Control Capitals (Nexus) and Castles (Power Generator): each one grants a single Mandate periodically while you hold it. Other players can fight you for them.
+[/LIST][/color][/size][/font]
 
 [font=Geneva][color=#DA9A47][size=22]W[/size][size=17]hat makes Daemonia Epic stand out?[/size][/color][/font]
 
